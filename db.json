@@ -1,45 +1,28 @@
 {
-  "users": [
+  "products": [
     {
       "id": "1",
-      "firstName": "John",
-      "lastName": "Doe",
-      "email": "john@gamil.com",
-      "age": "19",
-      "companyId": "1"
+      "name": "Sling Bag",
+      "brand": "Globus",
+      "description": "Grey Women Sling Bag - Regular Size",
+      "img": "https://rukminim1.flixcart.com/image/714/857/kc0u7bk0/sling-bag/g/g/h/latest-trend-party-wear-handbag-sling-bag-with-adjustable-strap-original-imaft8fjdhdjeasg.jpeg?q=50",
+      "price": "2000"
     },
     {
       "id": "2",
-      "firstName": "Prateeksha",
-      "lastName": "Ranjan",
-      "email": "ranjan@gamil.com",
-      "age": "23",
-      "companyId": "2"
+      "name": "Laptop",
+      "brand": "Microsoft",
+      "description": "Microsoft Surface Laptop Go - 12.4 Touchscreen - Intel Core i5 - 8GB Memory - 128GB SSD - Platinum",
+      "img": "https://m.media-amazon.com/images/I/61OvV27-44L._AC_SL1500_.jpg",
+      "price": "100000"
     },
     {
       "id": "3",
-      "firstName": "Prateek",
-      "lastName": "Ranjan",
-      "email": "prateek@gamil.com",
-      "age": "30",
-      "companyId": "3"
-    }
-  ],
-  "company": [
-    {
-      "id": "1",
-      "name": "Google",
-      "description": "Search Engine"
-    },
-    {
-      "id": "2",
-      "name": "Apple",
-      "description": "Expensive phone"
-    },
-    {
-      "id": "3",
-      "name": "Gucci",
-      "description": "Expensive Clothes"
+      "name": "Phone",
+      "brand": "Samsung",
+      "description": "SAMSUNG GALAXY Z FOLD 2 5G",
+      "img": "https://cdn.vox-cdn.com/thumbor/v97OD-MBgNjw8p5crApucVs9RB8=/0x0:2050x1367/1800x1800/filters:focal(1025x684:1026x685)/cdn.vox-cdn.com/uploads/chorus_asset/file/22022572/bfarsace_201106_4269_012.0.jpg",
+      "price": "20000"
     }
   ]
 }
