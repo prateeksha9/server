@@ -25,4 +25,14 @@
       "price": "20000"
     }
   ]
+  "prots": [
+    {
+      "id": "1",
+      "name": "Sling Bag",
+      "brand": "Globus",
+      "description": "Grey Women Sling Bag - Regular Size",
+      "img": "https://rukminim1.flixcart.com/image/714/857/kc0u7bk0/sling-bag/g/g/h/latest-trend-party-wear-handbag-sling-bag-with-adjustable-strap-original-imaft8fjdhdjeasg.jpeg?q=50",
+      "price": "2000"
+    }
+  ]
 }
